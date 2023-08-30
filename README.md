@@ -142,7 +142,7 @@ The `main_simulation` function also prints the computed `a_mu` values and whethe
 
 ## Simulation Results
 
-The main simulation was run using the `main_simulation` function with specific values of `α`, `β`, and `γ`. For the purpose of this article, the simulation was run with `α = 1.6237767391887243e-10`, `β = 3.4e-9`, and `γ = 2.86057797e-9`. The computed anomalous magnetic moment, `a_mu`, was found to be approximately 1.1658967571307614e-8, which falls within the experimental range of `RANGE_MIN = 1.16589671e-8` and `RANGE_MAX = 1.16594439e-8`.
+The main simulation was run using the `main_simulation` function with specific values of `α`, `β`, and `γ`. For the purpose of this article, the simulation was run with `α = 1.6237767391887243e-10`, `β = 3.4e-9`, and `γ = 2.86057797e-9`. The computed anomalous magnetic moment, `a_mu`, was found to be approximately `1.1658967571307614e-8`, which falls within the experimental range of `RANGE_MIN = 1.16589671e-8` and `RANGE_MAX = 1.16594439e-8`.
 
 This result is significant as it suggests that the introduced extra-dimensional effects at the quantum scale can account for the observed muon g-2 anomaly. The fact that the computed `a_mu` falls within the experimental range indicates that the proposed model, which includes quantum fluctuations, transitions, and correlations arising due to extra spatial dimensions, provides a plausible explanation for the observed discrepancy between the experimental and theoretical values of the muon's anomalous magnetic moment.
 
