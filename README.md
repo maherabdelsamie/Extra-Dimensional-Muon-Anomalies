@@ -1,4 +1,4 @@
-# Bridging the Gap: Quantum Simulation of Extra-Dimensional Contributions to Muon Anomalies
+# Quantum Simulation of Extra-Dimensional Contributions to Muon Anomalies
 
 Maher Abdelsamie<br>maherabdelsamie@gmail.com<br>
 
@@ -381,4 +381,27 @@ Directions for future research include refining the model by incorporating addit
 2.Abdelsamie, M. (2023, July 1). A Quantum Leap in Gravitational Studies: Unraveling the Emergence of Gravity from Extra Dimensions. LinkedIn. https://www.linkedin.com/pulse/quantum-leap-gravitational-studies-unraveling-gravity-abdelsamie/
 
 3.Abdelsamie, M. (2023, August 7). Decoding the Sun's Mysterious Gamma Rays. LinkedIn. https://www.linkedin.com/pulse/decoding-suns-mysterious-gamma-rays-dr-maher-abdelsamie/
+
+# Installation
+The simulation is implemented in Python and requires the following libraries:
+- cupy
+- numpy
+- matplotlib
+- tqdm
+
+You can install these libraries using pip:
+
+```
+pip install cupy numpy matplotlib tqdm
+```
+
+### Usage
+Run the simulation by executing the `main.py` file. You can modify the parameters of the simulation by editing the `main.py` file.
+
+```
+python main.py
+```
+
+### License
+This code is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. - see the LICENSE.md file for details.
 
