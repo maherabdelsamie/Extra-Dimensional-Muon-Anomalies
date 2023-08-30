@@ -392,7 +392,10 @@ The simulation is implemented in Python and requires the following libraries:
 You can install these libraries using pip:
 
 ```
-pip install cupy numpy matplotlib tqdm
+pip install cupy 
+pip install numpy
+pip install matplotlib
+pip install tqdm
 ```
 
 ### Usage
