@@ -1,7 +1,7 @@
 Notice
 ======
 
-This software includes code developed by [YMEGY RESEARCH AND DEVELOPMENT LLC].
+This software includes code developed by YMEGY RESEARCH AND DEVELOPMENT LLC.
 
 This software includes the following libraries:
 
