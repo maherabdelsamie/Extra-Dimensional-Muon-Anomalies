@@ -404,8 +404,13 @@ Run the simulation by executing the `main.py` file. You can modify the parameter
 ```
 python main.py
 ```
+## Run on Google Colab
 
-### License
+You can run this notebook on Google Colab by clicking on the following badge:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1tHrz9QhLBN-zBO3PL6RmfjmdcCXvwTiq?usp=sharing)
+
+## License
 This code is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. - see the LICENSE.md file for details.
 
 ## Citing This Work
