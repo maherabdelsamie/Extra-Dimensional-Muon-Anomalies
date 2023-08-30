@@ -41,7 +41,10 @@ The muon Hamiltonian is modified by introducing three phenomenological terms: qu
 These terms are introduced into the Hamiltonian as follows:
 
 
-\[ H = T + V + gf(\alpha, N) + gt(\beta, N) + gc(\gamma, \psi^2) \]
+$$
+H = T + V + gf(\alpha, N) + gt(\beta, N) + gc(\gamma, \psi^2)
+$$
+
 
 
 Where:
