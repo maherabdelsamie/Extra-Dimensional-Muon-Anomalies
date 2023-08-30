@@ -2,7 +2,7 @@ License
 =======
 Copyright (c) 2023 [YMEGY RESEARCH AND DEVELOPMENT LLC]
 
-This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+This code is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 Attribution-NonCommercial-ShareAlike 4.0 International
 =======================================================================
