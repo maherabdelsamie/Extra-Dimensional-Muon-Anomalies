@@ -257,7 +257,7 @@ plt.show()
 
 From the plot, it is evident that the muon observable exhibits complex dynamics over time, influenced by the extra-dimensional effects modeled by the Hamiltonian. This plot is essential for understanding the system's dynamics and identifying any unusual behaviors or patterns that may arise during the simulation.
 
-![1](https://github.com/maherabdelsamie/ExtraDimMuonSimulation2/assets/73538221/8ae4b769-9c74-4261-8b52-24870fcf328f)
+![1](https://github.com/maherabdelsamie/Extra-Dimensional-Muon-Anomalies/assets/73538221/36b981e8-8c4b-4f4b-9050-7fa2e62de012)
 
 
 5.2 **Anomalous Magnetic Moment vs. α**
@@ -282,7 +282,7 @@ plt.show()
 
 The x-axis represents the `α` value, and the y-axis represents the `a_mu` value. Horizontal lines represent the experimental minimum and maximum values of the anomalous magnetic moment. This plot is vital for determining whether the model can produce `a_mu` values within the experimental range for the chosen value of `α`. It provides a visual representation of the sensitivity of the result to the `α` parameter and helps identify the range of `α` values that produce results consistent with the experiment.
 
-![download](https://github.com/maherabdelsamie/ExtraDimMuonSimulation2/assets/73538221/ae5e53b1-8a4e-44d0-b008-23fa299fdb70)
+ ![download](https://github.com/maherabdelsamie/Extra-Dimensional-Muon-Anomalies/assets/73538221/2e940f3c-e967-4616-9e05-10a68068842a)
 
 
 5.3 **Fourier Transform of Magnetic Moment**
@@ -306,7 +306,7 @@ plt.show()
 
 The x-axis represents the frequency (Hz), and the y-axis represents the magnitude of the Fourier transform. This plot is important for understanding the frequency components of the magnetic moment and identifying any dominant frequencies that may be present. It can provide insights into the periodicity of the system and its response to the extra-dimensional effects.
 
-![2](https://github.com/maherabdelsamie/ExtraDimMuonSimulation2/assets/73538221/3c0dc6c1-4d89-4165-aeea-4949ddd865f4)
+ ![2](https://github.com/maherabdelsamie/Extra-Dimensional-Muon-Anomalies/assets/73538221/24aa49f6-3595-44e2-8774-1216e127cad3)
 
 
 5.4 **Probability Density Evolution**
@@ -330,7 +330,7 @@ plt.show()
 
 The x-axis represents the time steps, and the y-axis represents the probability density. This plot is important for understanding how the probability distribution of the muon observable evolves over time. It can provide insights into the statistical properties of the system and its response to the extra-dimensional effects.
 
-![3](https://github.com/maherabdelsamie/ExtraDimMuonSimulation2/assets/73538221/add89132-8485-42be-9e60-82e6a1215037)
+ ![3](https://github.com/maherabdelsamie/Extra-Dimensional-Muon-Anomalies/assets/73538221/c501b8c0-a13e-48b1-8449-1a6cf2794893)
 
 
 5.5 **Hamiltonian Components Visualization**
@@ -361,7 +361,7 @@ plt.show()
 The x-axis represents the state index, and the y-axis represents the component value. The plot includes the kinetic energy, potential energy, GF fluctuations, GT transitions, and GC correlations components of the Hamiltonian. This plot is crucial for understanding the contributions of each component to the Hamiltonian and their relative magnitudes. It provides a visual representation of the Hamiltonian used in the simulation and can help identify any potential issues or areas for improvement in the model.
 Each of these plots provides valuable insights into different aspects of the simulation and its results. Together, they provide a comprehensive visualization of the investigation of extra-dimensional contributions to the muon anomaly and can help identify potential areas for further research and improvement.
 
-![4](https://github.com/maherabdelsamie/ExtraDimMuonSimulation2/assets/73538221/b2486f89-071a-4998-9ca1-8e98d3853882)
+ ![5](https://github.com/maherabdelsamie/Extra-Dimensional-Muon-Anomalies/assets/73538221/8c1653af-aaf1-479e-b1b3-16c63cace16b)
 
 
 ## 6. Conclusion
