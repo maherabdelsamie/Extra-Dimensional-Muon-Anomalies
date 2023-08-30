@@ -405,3 +405,9 @@ python main.py
 ### License
 This code is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. - see the LICENSE.md file for details.
 
+## Citing This Work
+
+If you use this software in your research, please cite it using the information provided in the `CITATION.cff` file available in this repository.
+
+
+
