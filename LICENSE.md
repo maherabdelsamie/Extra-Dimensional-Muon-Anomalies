@@ -1,6 +1,6 @@
 License
 =======
-Copyright (c) 2023 [YMEGY RESEARCH AND DEVELOPMENT LLC]
+Copyright (c) 2023 YMEGY RESEARCH AND DEVELOPMENT LLC
 
 This code is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
